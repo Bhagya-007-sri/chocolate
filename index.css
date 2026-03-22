@@ -1,0 +1,14 @@
+nav{
+    float:right;
+    margin-top: 50px;
+}
+button{
+    padding:20px 40px;
+    border-radius: 40px;
+    margin-right: 20px;
+    color: aliceblue;
+    background-color: brown;
+}
+p{
+    color: coral;
+}
